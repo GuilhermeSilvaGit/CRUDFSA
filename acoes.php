@@ -53,6 +53,5 @@ if (isset($_POST['delete_login'])) {
         header('Location: index.php');
         exit;
     }
-}
-
+}	
 ?>
